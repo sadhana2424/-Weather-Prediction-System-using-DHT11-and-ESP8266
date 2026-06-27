@@ -54,21 +54,21 @@ Temperature	Humidity	Status
 18°C	40%	Cool & Dry
 
 ## 🌍 Applications
-Weather Monitoring
-Smart Home Automation
-Greenhouse Monitoring
-Environmental Monitoring
+Weather Monitoring,
+Smart Home Automation,
+Greenhouse Monitoring,
+Environmental Monitoring,
 IoT Learning Projects
 
 ![Weather Prediction System](dhtt.png)
 
 
 ## 🚀 Features
-Real-Time Temperature Monitoring
-Real-Time Humidity Monitoring
-Wi-Fi Enabled
-Live Web Dashboard
-Beginner-Friendly ESP8266 Project
+Real-Time Temperature Monitoring,
+Real-Time Humidity Monitoring,
+Wi-Fi Enabled,
+Live Web Dashboard,
+Beginner-Friendly ESP8266 Project,
 Responsive Web Interface
 
 ## 💻 Software Used
