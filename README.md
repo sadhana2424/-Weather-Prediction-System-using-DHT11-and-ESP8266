@@ -1,28 +1,87 @@
-# 🌦️ Weather Prediction System using DHT11 and ESP8266
+## 🌦️ Weather Prediction System using DHT11 and ESP8266
 
-## Project Image
+## 📌 Project Overview
+The Weather Prediction System is an IoT project built using the ESP8266 (NodeMCU) and DHT11 Temperature & Humidity Sensor. The system continuously monitors temperature and humidity and displays the readings on a web page over Wi-Fi. This project is suitable for weather monitoring, smart homes, and IoT learning.
+
+## 🎯 Objective
+Measure temperature and humidity in real time.
+Display sensor readings on a web page.
+Enable wireless monitoring using Wi-Fi.
+Learn IoT-based environmental monitoring with ESP8266.
+
+## 🛠️ Components Required
+ESP8266 NodeMCU
+DHT11 Temperature & Humidity Sensor
+Breadboard
+Jumper Wires
+USB Cable
+Wi-Fi Connection
+
+## 🔌 Circuit Connections
+DHT11 Pin	ESP8266 Pin
+VCC	3.3V
+GND	GND
+DATA	D4 (GPIO2)
+
+## ⚙️ Working Principle
+The DHT11 sensor measures the surrounding temperature and humidity.
+ESP8266 reads the sensor values.
+The data is processed and updated in real time.
+A web server hosted on the ESP8266 displays the readings.
+Users can monitor the weather data from any device connected to the same Wi-Fi network.
+
+## 🌐 Web Interface Features
+🌡️ Real-Time Temperature Display
+💧 Humidity Percentage
+📱 Responsive HTML & CSS Web Dashboard
+🔄 Automatic Data Refresh
+
+## ▶️ How to Run
+Connect the DHT11 sensor to the ESP8266.
+Open the project in Arduino IDE.
+Install the ESP8266 Board Package and DHT library.
+Enter your Wi-Fi SSID and Password in the code.
+Upload the code to the ESP8266.
+Open the Serial Monitor.
+Copy the IP address displayed.
+Open the IP address in a web browser.
+View the live temperature and humidity values.
+
+## 📊 Sample Output
+Temperature	Humidity	Status
+24°C	55%	Comfortable
+30°C	70%	Warm & Humid
+18°C	40%	Cool & Dry
+
+## 🌍 Applications
+Weather Monitoring
+Smart Home Automation
+Greenhouse Monitoring
+Environmental Monitoring
+IoT Learning Projects
 
 ![Weather Prediction System](dhtt.png)
 
-## Project Overview
 
-Developed an IoT-based weather monitoring system using ESP8266 and DHT11 sensor to measure temperature and humidity in real time.
+## 🚀 Features
+Real-Time Temperature Monitoring
+Real-Time Humidity Monitoring
+Wi-Fi Enabled
+Live Web Dashboard
+Beginner-Friendly ESP8266 Project
+Responsive Web Interface
 
-### Features
-✅ Real-time temperature monitoring  
-✅ Real-time humidity monitoring  
-✅ Weather status prediction (Sunny / Cloudy)  
-✅ LED indication based on weather condition  
-✅ Buzzer alert for abnormal temperature conditions  
-✅ Web-based monitoring dashboard
+## 💻 Software Used
+Arduino IDE
+ESP8266 Board Package
+DHT Sensor Library
+HTML
+CSS
 
-### Components Used
-- ESP8266 NodeMCU
-- DHT11 Sensor
-- LEDs
-- Buzzer
-- Breadboard
-- Jumper Wires
 
-### Working
-The DHT11 sensor continuously measures temperature and humidity values. The ESP8266 processes the data and displays weather conditions on a web page.
+## 👩‍💻 Developed By
+
+Sadhana
+
+
+![Weather Prediction System](dhtt.png)
