@@ -17,11 +17,6 @@ Jumper Wires
 USB Cable
 Wi-Fi Connection
 
-## 🔌 Circuit Connections
-DHT11 Pin	ESP8266 Pin
-VCC	3.3V
-GND	GND
-DATA	D4 (GPIO2)
 
 ## ⚙️ Working Principle
 The DHT11 sensor measures the surrounding temperature and humidity.
@@ -72,10 +67,10 @@ Beginner-Friendly ESP8266 Project,
 Responsive Web Interface
 
 ## 💻 Software Used
-Arduino IDE
-ESP8266 Board Package
-DHT Sensor Library
-HTML
+Arduino IDE,
+ESP8266 Board Package,
+DHT Sensor Library,
+HTML,
 CSS
 
 
@@ -84,4 +79,3 @@ CSS
 Sadhana
 
 
-![Weather Prediction System](dhtt.png)
