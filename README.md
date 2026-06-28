@@ -10,11 +10,11 @@ Enable wireless monitoring using Wi-Fi.
 Learn IoT-based environmental monitoring with ESP8266.
 
 ## 🛠️ Components Required
-ESP8266 NodeMCU
-DHT11 Temperature & Humidity Sensor
-Breadboard
-Jumper Wires
-USB Cable
+ESP8266 NodeMCU,
+DHT11 Temperature & Humidity Sensor,
+Breadboard,
+Jumper Wires,
+USB Cable,
 Wi-Fi Connection
 
 
@@ -26,9 +26,9 @@ A web server hosted on the ESP8266 displays the readings.
 Users can monitor the weather data from any device connected to the same Wi-Fi network.
 
 ## 🌐 Web Interface Features
-🌡️ Real-Time Temperature Display
-💧 Humidity Percentage
-📱 Responsive HTML & CSS Web Dashboard
+🌡️ Real-Time Temperature Display,
+💧 Humidity Percentage,
+📱 Responsive HTML & CSS Web Dashboard,
 🔄 Automatic Data Refresh
 
 ## ▶️ How to Run
